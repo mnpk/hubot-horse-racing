@@ -2,7 +2,7 @@
 
 :horse_racing: Horse racing in Slack! Yay!
 
-[![npm](https://img.shields.io/npm/v/hubot-magnet.svg?style=flat-square)](https://www.npmjs.com/package/hubot-magnet)
+[![npm](https://img.shields.io/npm/v/hubot-horse-racing.svg?style=flat-square)](https://www.npmjs.com/package/hubot-horse-racing)
 
 ## Demo
 
